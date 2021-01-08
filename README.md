@@ -125,7 +125,3 @@ cluster方式至少6个节点(3主3从，3主做sharding，3从用来保证主�
         redisson.server.type=masterslave
         redisson.lock.server.password=
         redisson.lock.server.database=1
-
-## 参考资料
-
-[自己写分布式锁-基于redission](http://wuwenliang.net/2018/12/07/%E8%87%AA%E5%B7%B1%E5%86%99%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81-%E5%9F%BA%E4%BA%8Eredission/)
